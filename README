@@ -1,1 +1,6 @@
-This is the README for RoomBot_HC
+# RoomBot_HC
+
+This is a simplified version of the original agrimote design supporting:
+
+1. LoraWAN packet transmission through the Chirpstack Gateway
+2. This variant (_HC) controls a heating device through an attached solid state relay (SSR).
